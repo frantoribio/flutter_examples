@@ -1,16 +1,7 @@
 # films_app
 
-A new Flutter project.
+Ejemplo de aplicación sencilla que muestra datos obtenidos de peliculas de TMDB.
+Para que funcione tenéis que poner una api-key valida en films_app/lib/providers/movies_provider.dart
+Tenéis una genérica en la taréa del aula virtual de [desarrollo de interfaces](https://aulavirtual33.educa.madrid.org/ies.luisvives.leganes/mod/assign/view.php?id=29996), pero también os podéis registrar y obtener una para vosotros [aquí](https://www.themoviedb.org/documentation/api?language=es).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
