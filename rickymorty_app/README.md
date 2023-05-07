@@ -10,8 +10,8 @@ También hay un ejemplo de FutureBuilder al final de las vistas de Locations, co
 He dejado un ejemplo de NetworkImage que muestra un spinner hasta que la imagen se carga en la carpeta Widgets, pero no lo he utilizado en la app (creo que es mejor que los FadeInImages, no necesita un AsssetImage y es adaptativo).
 
 ## Posibles mejoras
-Añadir preferencias de usuario para almacenar cosas como el ThemeMode (shared_preferences).
-Scrollinfinito en las listas de personajes/localizaciones/episodios.
-El layout ya es algo adaptatativo y responsivo, pero se pueden añadir cosas como un drawer para la info del usuario o utilizar https://pub.dev/packages/flutter_adaptive_scaffold.
-La navegación a la vista detalle dirige a una nueva vista (Screen), para que aparezca dentro del layout del home_screen habría que implementar algo así: https://medium.com/coding-with-flutter/flutter-case-study-multiple-navigators-with-bottomnavigationbar-90eb6caa6dbf.
-Estas mejoras son sencillas, no las he incluido para no complicar el código. Espero que os sirva como base para vuestras aplicaciones.
+- Añadir preferencias de usuario para almacenar cosas como el ThemeMode (shared_preferences).
+- Scrollinfinito en las listas de personajes/localizaciones/episodios.
+- El layout ya es algo adaptatativo y responsivo, pero se pueden añadir cosas como un drawer para la info del usuario o utilizar https://pub.dev/packages/flutter_adaptive_scaffold.
+- La navegación a la vista detalle dirige a una nueva vista (Screen), para que aparezca dentro del layout del home_screen habría que implementar algo así: https://medium.com/coding-with-flutter/flutter-case-study-multiple-navigators-with-bottomnavigationbar-90eb6caa6dbf.
+Estas mejoras son sencillas, no las he incluido para no complicar el código, pero mejorarían la apariencia de la aplicación completa. Espero que os sirva como base para vuestras aplicaciones.
