@@ -13,3 +13,5 @@ He dejado un ejemplo de NetworkImage que muestra un spinner hasta que la imágen
 Añadir preferencias de usuario para almacenar cosas como el ThemeMode (shared_preferences).
 Scrollinfinito en las listas de personajes/localizaciones/episodios.
 El layout ya es algo adaptatativo y responsivo, pero se pueden añadir cosas como un drawer para la info del usuario o utilizar https://pub.dev/packages/flutter_adaptive_scaffold.
+La navegación a la vista detalle dirige a una nueva vista (Screen), para que aparezca dentro del layout del home_screen habría que implementar algo así: https://medium.com/coding-with-flutter/flutter-case-study-multiple-navigators-with-bottomnavigationbar-90eb6caa6dbf.
+Estas mejoras son sencillas, no las he incluido para no complicar el código. Espero que os sirva como base para vuestras aplicaciones.
